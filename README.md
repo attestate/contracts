@@ -27,6 +27,7 @@ We use [ERC-3770](https://eips.ethereum.org/EIPS/eip-3770) for our address speci
 - Disperse: base:0x0A00984E7D5dF669Fa5eA4Ff17aB8c1CF76Be3aE, deployer: 0xee324c588ceF1BF1c1360883E4318834af66366d
 - ad v1: oeth:0xb0c9502ea7c11ea0fe6157bfc43e3507fa69bba0, deployer: 0xee324c588ceF1BF1c1360883E4318834af66366d
 - ad v2: oeth:0x2e78Fad843177343Feb2f1d5cb9699A061C59c06, deployer: 0xee324c588ceF1BF1c1360883E4318834af66366d
+- boost v1: oeth:0xcc1a990b8a0b9dd99bd7893fe9491721fa8f1a65, deployer: 0xee324c588ceF1BF1c1360883E4318834af66366d
 
 ### Deployed by macbudkowski
 
