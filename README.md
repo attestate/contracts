@@ -15,6 +15,10 @@ We use [ERC-3770](https://eips.ethereum.org/EIPS/eip-3770) for our address speci
 
 ## List
 
+### Deployed through Zora
+
+- Kiwi Pass NFT: oeth:0x66747bdc903d17c586fa09ee5d6b54cc85bbea45
+
 ### Deployed by timdaub
 
 - SequentialMetadataRenderer: eth:0x643198A532A1D5DE706E18E324234d9A6a70562A, deployer: 0x6ef56270aC34D210CddD2f4520651d5309770bE0
